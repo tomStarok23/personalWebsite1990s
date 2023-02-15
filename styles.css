@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+img {
+  width: auto;
+  height: 10vh;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+hr {
+  width: 16%;
+  margin: auto;
+  border-top: 2x;
+}
+
+a {
+  font-weight: 900;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h2 {
+  padding-top: 30px;
+}
+
+small {
+  text-decoration: underline;
+}
+
+br {
+  height: 2px;
+}
